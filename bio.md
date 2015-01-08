@@ -4,6 +4,8 @@ I am in my final term in the OSU Ecampus CS degree program. I like reading, watc
 
 Also, I am pretty awesome, and that's not just hubris. I know, because my mom told me so, and she wouldn't lie to me.
 
+Fun fact about me: I broke my neck in a snowboarding accident in 2002.
+
 Additionally, I like pie.
 
 Programming Background
