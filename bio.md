@@ -6,3 +6,4 @@ Also, I am pretty awesome, and that's not just hubris. I know, because my mom to
 
 Programming Background
 ----------------------
+Wrote my own version of "Nibbles" in QBASIC when I was in high school. Sadly, the source is lost forever.
