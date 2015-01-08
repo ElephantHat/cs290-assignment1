@@ -8,3 +8,7 @@ Additionally, I like pie.
 
 Programming Background
 ----------------------
+Wrote my own version of "Nibbles" in QBASIC when I was in high school. Sadly, the source is lost forever.
+
+Collaborated on a neat database project for cs275. See it here: http://web.engr.oregonstate.edu/~burleigb/275/project/
+
